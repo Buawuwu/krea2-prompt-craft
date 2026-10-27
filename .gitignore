@@ -1,0 +1,9 @@
+# 备份与缓存（原库每版留 .bak，仓库里不要）
+*.bak
+*.bak-*
+*__pycache__/
+*.pyc
+.DS_Store
+
+# 私用外挂：内容库不进仓库（技法级才回写 skill）
+adult-poses-local.md
