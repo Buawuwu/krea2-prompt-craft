@@ -12,7 +12,14 @@
 
 ## 许可
 
-CC BY-SA 4.0（见 `LICENSE`）。转载 / 改作须署名，并以同一协议分发。
+本项目以 **CC BY-SA 4.0**（Creative Commons Attribution-ShareAlike 4.0 International）发布。
+
+| 项 | 值 |
+|---|---|
+| 完整法律文本 | `LICENSE`（[CC 官方原文](https://creativecommons.org/licenses/by-sa/4.0/legalcode)） |
+| SPDX 标识 | `CC-BY-SA-4.0` |
+| 著作权人 | krea2-prompt-craft contributors |
+| 义务 | 转载 / 改作须**署名**、附许可链接，并以**同一协议**分发 |
 
 ## 安装
 
